@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrecrypt",
+        "uuid": 34989311,
+        "checksum": "nnt2zf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
